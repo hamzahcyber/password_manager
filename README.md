@@ -33,16 +33,16 @@ This is a simple password management application built using Python, designed fo
 Example
 Create an Account:
 
-markdown
-نسخ الكود
+hamzah
+
 Enter your desired username: user1
 Enter your desired password: ********
 Account created successfully!
 
 Login:
 
-markdown
-نسخ الكود
+hamzah
+
 Enter your username: user1
 Enter your password: ********
 Login successful!
